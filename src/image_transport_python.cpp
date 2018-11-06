@@ -191,6 +191,7 @@ PyObject* createStringIOObject()
 // void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 // {
 //    send to Python callback
+//    https://pybind11.readthedocs.io/en/stable/advanced/cast/functional.html
 // }
 
 
